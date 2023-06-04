@@ -1,0 +1,192 @@
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Npgsql.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\msi\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\appsettings.json
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Npgsql.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+D:\.NET\DynoVAla\DynoProject\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\MailKit.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\MimeKit.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\SmtpServer.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\MailKit.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\MimeKit.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Npgsql.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\SmtpServer.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\msi\Desktop\Nouveau dossier (2)\DynoProject\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Platform.ReferentialData.DataModel.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Platform.ReferentialData.DtoModel.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Platform.ReferentialData.EntityFramework.dll
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Platform.ReferentialData.DataModel.pdb
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Platform.ReferentialData.DtoModel.pdb
+D:\.NET\DynoVAla\DynoProject\WebApplication1\bin\Debug\net7.0\Platform.ReferentialData.EntityFramework.pdb

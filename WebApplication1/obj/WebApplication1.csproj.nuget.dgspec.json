@@ -1,0 +1,336 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.NET\\DynoVAla\\DynoProject\\WebApplication1\\WebApplication1.csproj": {}
+  },
+  "projects": {
+    "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\Platform.ReferentialData.DataModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\Platform.ReferentialData.DataModel.csproj",
+        "projectName": "Platform.ReferentialData.DataModel",
+        "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\Platform.ReferentialData.DataModel.csproj",
+        "packagesPath": "C:\\Users\\nidha\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nidha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DtoModel\\Platform.ReferentialData.DtoModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DtoModel\\Platform.ReferentialData.DtoModel.csproj",
+        "projectName": "Platform.ReferentialData.DtoModel",
+        "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DtoModel\\Platform.ReferentialData.DtoModel.csproj",
+        "packagesPath": "C:\\Users\\nidha\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DtoModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nidha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\Platform.ReferentialData.DataModel.csproj": {
+                "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\Platform.ReferentialData.DataModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.EntityFramework\\Platform.ReferentialData.EntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.EntityFramework\\Platform.ReferentialData.EntityFramework.csproj",
+        "projectName": "Platform.ReferentialData.EntityFramework",
+        "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.EntityFramework\\Platform.ReferentialData.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\nidha\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.EntityFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nidha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\Platform.ReferentialData.DataModel.csproj": {
+                "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\Platform.ReferentialData.DataModel.csproj"
+              },
+              "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DtoModel\\Platform.ReferentialData.DtoModel.csproj": {
+                "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DtoModel\\Platform.ReferentialData.DtoModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.NET\\DynoVAla\\DynoProject\\WebApplication1\\WebApplication1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.NET\\DynoVAla\\DynoProject\\WebApplication1\\WebApplication1.csproj",
+        "projectName": "WebApplication1",
+        "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\nidha\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\DynoVAla\\DynoProject\\WebApplication1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nidha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\Platform.ReferentialData.DataModel.csproj": {
+                "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DataModel\\Platform.ReferentialData.DataModel.csproj"
+              },
+              "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DtoModel\\Platform.ReferentialData.DtoModel.csproj": {
+                "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.DtoModel\\Platform.ReferentialData.DtoModel.csproj"
+              },
+              "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.EntityFramework\\Platform.ReferentialData.EntityFramework.csproj": {
+                "projectPath": "D:\\.NET\\DynoVAla\\DynoProject\\Platform.ReferentialData.EntityFramework\\Platform.ReferentialData.EntityFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "SmtpServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
